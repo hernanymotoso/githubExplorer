@@ -14,4 +14,4 @@ node.js e Yarn
 
 - Você pode buscar um repositorio pelo nome perfil(dono) / nome do repositório. exemplo "facebook/react".
 
-- O app vai listar abaixo do imput de pesquisa os repositorios buscados e clicando neles vai abrir uma pagina do repositório somente, nela vemos mais detalhes do mesmo e podemos tambem ver uma lista das issues.
+- O app vai listar abaixo do input de pesquisa os repositorios buscados e clicando neles vai abrir uma pagina do repositório somente, nela vemos mais detalhes do mesmo e podemos tambem ver uma lista das issues.
